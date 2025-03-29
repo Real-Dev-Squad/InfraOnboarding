@@ -1,2 +1,2 @@
-# website-template
-A template to create all public facing sites
+# InfraAsCode
+This is the service to manage all the infra using IaC (Terraform)
